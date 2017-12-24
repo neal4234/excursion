@@ -1,0 +1,12 @@
+#title {
+font-family: "verdana";
+font-weight: bold;
+font-size: 50px;
+color: white
+text-align: center;
+}
+
+#comingsoon {
+color: aquamarine;
+font-size: 16px
+}
